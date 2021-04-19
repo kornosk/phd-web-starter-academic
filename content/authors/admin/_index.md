@@ -1,39 +1,36 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Kornraphop Kawintiranon
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate in CS
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Georgetown University
+  url: https://www.georgetown.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include AI/ML and NLP.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- AI, ML, Data Science
+- Natural Language Processing
+- Misinformation / Fake News
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: Georgetown University
+    year: 2017 - present
+  - course: BEng in Computer Engineering
+    institution: Chulalongkorn University
+    year: 2012 - 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,16 +42,19 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/kornraphop
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=xY2oO2QAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/kornosk
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: www.linkedin.com/in/kornraphop
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Kornraphop-Kawintiranon
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -64,14 +64,23 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "kornraphop.k [at] gmail"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! I am a Ph.D. candidate in <a href="https://cs.georgetown.edu" title="Department of Computer Science – Georgetown University">Computer Science</a> at <a href="https://www.georgetown.edu" title="Georgetown University">Georgetown University</a> located in Washington, DC. I am working with <a href="http://people.cs.georgetown.edu/~singh" title="Prof. Lisa Singh">Prof. Lisa Singh</a> on data-efficient learning and NLP.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Most of my <a href="#projects">projects</a> are collaborations with <a href="https://www.cnn.com">CNN</a>, <a href="https://www.washingtonpost.com">Washington Post</a>, <a href="https://www.si.umich.edu/">UMich</a> and <a href="https://mccourt.georgetown.edu/research/the-massive-data-institute/">MDI</a> on leveraging AI/ML methods for data-centric social concerns like <a href="https://s3mc.org/political-communication/election-2020-project/sentiment-analyses/">sentiment analysis</a>, misinformation, fake news, <a href="http://forcedmigration.cs.georgetown.edu/index.html">force-migration</a>, spam.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
+
+<div class="section-subheading">News</div>
+<ul class="ul-interests">
+  <li><p>I will be interning at <img src="img/google-logo.svg" title="Google" style="width:18px; margin:0px; display: inline; vertical-align: -7%;"/> <a href="https://research.google/">Google AI</a> this summer.</p></li>
+  <li>Our paper has been accepted as a long paper at <a href="https://2021.naacl.org/program/accepted/">NAACL 2021</a>.</li>
+  <li>Our project with <img src="img/cnn-logo.png" title="CNN" style="height:18px; margin:0px; display: inline; vertical-align: -5%;"/> known as <a href="https://www.cnn.com/2020/08/16/politics/election-2020-polls-biden-trump-breakthrough/index.html">The Breakthrough</a> is reported weekly at CNN Politics</a>.</li>
+  <li><a href="https://rdcu.be/ciVp0">Our paper</a> has been published at <a href="https://www.springer.com/journal/42001">Journal of Computational Social Science</a>.</li>
+  <li>Our work about COVID-19 misinformation was reported at <img src="img/washington-post-logo.jpg" title="Washington Post" style="height:18px; margin:0px; display: inline; vertical-align: -5%;"/> <a href="https://www.washingtonpost.com/politics/2020/05/07/americans-are-fighting-coronavirus-misinformation-social-media">Washington Post</a>.</li>
+</ul>

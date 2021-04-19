@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 content:
@@ -22,12 +22,12 @@ content:
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
   # Filter on criteria
-  filters:
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
-    exclude_featured: true
+  #filters:
+  #  tag: ''
+  #  category: ''
+  #  publication_type: ''
+  #  author: ''
+  #  exclude_featured: true
 design:
   # Choose a view for the listings:
   #   1 = List
@@ -35,8 +35,15 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 4
+
+  # Customize the section spacing. Order is top, right, bottom, left.
+  spacing:
+    padding: ["2.5em", "0", "2.5em", "0"]
+
+advanced:
+  css_style: 'font-size: 0.8em;'
 ---
 
-{{% callout note %}}
+<!--{{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+{{% /callout %}}-->
