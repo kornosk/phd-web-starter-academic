@@ -51,7 +51,7 @@ social:
   link: https://github.com/kornosk
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/kornraphop
+  link: https://www.linkedin.com/in/kornraphop
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Kornraphop-Kawintiranon

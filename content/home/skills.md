@@ -25,7 +25,7 @@ feature:
   icon_pack: fas
   name: Machine Learning
 - description: ""
-  icon: database
+  icon: chart-line
   icon_pack: fas
   name: Data Science
 
