@@ -13,7 +13,7 @@ main:
   - name: Publications
     url: '#publications'
     weight: 30
-  - name: Related Courses
+  - name: Courses
     url: '#courses'
     weight: 50
   - name: Contact

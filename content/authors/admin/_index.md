@@ -67,7 +67,7 @@ social:
 email: "kornraphop.k [at] gmail"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 Hello! I am a Ph.D. candidate in <a href="https://cs.georgetown.edu" title="Department of Computer Science – Georgetown University">Computer Science</a> at <a href="https://www.georgetown.edu" title="Georgetown University">Georgetown University</a> located in Washington, DC. I am working with <a href="http://people.cs.georgetown.edu/~singh" title="Prof. Lisa Singh">Prof. Lisa Singh</a> on data-efficient learning and NLP.

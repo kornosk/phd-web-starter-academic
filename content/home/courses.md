@@ -23,13 +23,6 @@ design:
     <div class="row">
         <div class="col-sm">
             <h3>Graduate-level</h3>
-        </div>
-        <div class="col-sm">
-            <h3>Undergraduate-level</h3>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm">
             <ul>
                 <li>Algorithms</li>
                 <li>Machine Learning</li>
@@ -46,6 +39,7 @@ design:
             </ul>
         </div>
         <div class="col-sm">
+            <h3>Undergraduate-level</h3>
             <ul>
                 <li>Algorithm Design</li>
                 <li>Artificial Intelligence</li>
