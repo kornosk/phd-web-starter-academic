@@ -22,7 +22,7 @@ author: admin
 design:
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["15px", "0", "15px", "0"]
+    padding: ["10px", "0", "10px", "0"]
 
 advanced:
   css_style: 'font-size: 0.9em;'

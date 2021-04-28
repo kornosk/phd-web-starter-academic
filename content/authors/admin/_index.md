@@ -64,15 +64,15 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "kornraphop.k [at] gmail"
+email: "kornraphop.k [at] gee-mail"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Hello! I am a Ph.D. candidate in <a href="https://cs.georgetown.edu" title="Department of Computer Science – Georgetown University">Computer Science</a> at <a href="https://www.georgetown.edu" title="Georgetown University">Georgetown University</a> located in Washington, DC. I am working with <a href="http://people.cs.georgetown.edu/~singh" title="Prof. Lisa Singh">Prof. Lisa Singh</a> on data-efficient learning and NLP.
+Hello! I am a Ph.D. candidate in <a href="https://cs.georgetown.edu" title="Department of Computer Science – Georgetown University">Computer Science</a> at <a href="https://www.georgetown.edu" title="Georgetown University">Georgetown University</a> located in Washington, DC. I am working with <a href="http://people.cs.georgetown.edu/~singh" title="Prof. Lisa Singh">Prof. Lisa Singh</a> on **Data-Efficient Learning and NLP**.
 
-Most of my <a href="#projects">projects</a> are collaborations with <a href="https://www.cnn.com">CNN</a>, <a href="https://www.washingtonpost.com">Washington Post</a>, <a href="https://www.si.umich.edu/">UMich</a> and <a href="https://mccourt.georgetown.edu/research/the-massive-data-institute/">MDI</a> on leveraging AI/ML methods for data-centric social concerns like <a href="https://s3mc.org/political-communication/election-2020-project/sentiment-analyses/">sentiment analysis</a>, misinformation, fake news, <a href="http://forcedmigration.cs.georgetown.edu/index.html">force-migration</a>, spam.
+Most of my projects are collaborations with <a href="https://www.cnn.com">CNN</a>, <a href="https://www.washingtonpost.com">Washington Post</a>, <a href="https://www.si.umich.edu/">UMich</a> and <a href="https://mccourt.georgetown.edu/research/the-massive-data-institute/">MDI</a> on leveraging AI/ML methods for data-centric social concerns such as <a href="https://s3mc.org/political-communication/election-2020-project/sentiment-analyses/">sentiment analysis</a>, misinformation, fake news, <a href="http://forcedmigration.cs.georgetown.edu/index.html">force-migration</a>, spam.
 
 <!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
 
@@ -80,7 +80,7 @@ Most of my <a href="#projects">projects</a> are collaborations with <a href="htt
 <ul class="ul-interests">
   <li><p>I will be interning at <img src="img/google-logo.svg" title="Google" style="width:18px; margin:0px; display: inline; vertical-align: -7%;"/> <a href="https://research.google/">Google AI</a> this summer.</p></li>
   <li>Our paper has been accepted as a long paper at <a href="https://2021.naacl.org/program/accepted/">NAACL 2021</a>.</li>
-  <li>Our project with <img src="img/cnn-logo.png" title="CNN" style="height:18px; margin:0px; display: inline; vertical-align: -5%;"/> known as <a href="https://www.cnn.com/2020/08/16/politics/election-2020-polls-biden-trump-breakthrough/index.html">The Breakthrough</a> is reported weekly at CNN Politics</a>.</li>
-  <li><a href="https://rdcu.be/ciVp0">Our paper</a> has been published at <a href="https://www.springer.com/journal/42001">Journal of Computational Social Science</a>.</li>
-  <li>Our work about COVID-19 misinformation was reported at <img src="img/washington-post-logo.jpg" title="Washington Post" style="height:18px; margin:0px; display: inline; vertical-align: -5%;"/> <a href="https://www.washingtonpost.com/politics/2020/05/07/americans-are-fighting-coronavirus-misinformation-social-media">Washington Post</a>.</li>
+  <li>Our project with <img src="img/cnn-logo.png" title="CNN" style="height:18px; margin:0px; display: inline; vertical-align: -5%;"/> known as <a href="https://www.cnn.com/2020/08/16/politics/election-2020-polls-biden-trump-breakthrough/index.html">The Breakthrough</a> is reported weekly on CNN Politics</a>.</li>
+  <li><a href="https://rdcu.be/ciVp0">Our paper</a> has been published in the <a href="https://www.springer.com/journal/42001">Journal of Computational Social Science</a>.</li>
+  <li>Our work about COVID-19 misinformation was reported on <img src="img/washington-post-logo.jpg" title="Washington Post" style="height:18px; margin:0px; display: inline; vertical-align: -5%;"/> <a href="https://www.washingtonpost.com/politics/2020/05/07/americans-are-fighting-coronavirus-misinformation-social-media">Washington Post</a>.</li>
 </ul>

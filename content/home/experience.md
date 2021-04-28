@@ -29,9 +29,9 @@ experience:
     location: Mountain View, California
     date_start: '2021-05-01'
     date_end: ''
-    description: |2-    
-        * Google AI
-        * Collaboration of Google Cloud AI and Google Brain teams.
+    description: |2-
+        * Work on AI/ML stuff under Google AI.
+        * Collaborate with Google Cloud AI and Google Brain teams.
         * Enhance AI/ML in production used by millions of people around the world.
 
   - title: Research Intern
