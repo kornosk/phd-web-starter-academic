@@ -26,7 +26,7 @@ experience:
     company: Google
     company_url: 'https://ai.google/'
     company_logo: org-google
-    location: Mountain View, California
+    location: Sunnyvale, California
     date_start: '2021-05-01'
     date_end: ''
     description: |2-
