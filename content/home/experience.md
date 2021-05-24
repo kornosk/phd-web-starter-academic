@@ -30,8 +30,8 @@ experience:
     date_start: '2021-05-01'
     date_end: ''
     description: |2-
-        * Work on AI/ML stuff under Google AI.
-        * Collaborate with Google Cloud AI and Google Brain teams.
+        * Work on AI/ML stuff under <a href="https://ai.google/" target="_blank">Google AI</a>.
+        * Collaborate with <a href="https://research.google/teams/cloud-ai/" target="_blank">Google Cloud AI</a> and <a href="https://research.google/teams/brain/" target="_blank">Google Brain</a> teams.
         * Enhance AI/ML in production used by millions of people around the world.
 
   - title: Research Intern
@@ -41,7 +41,7 @@ experience:
     location: Washington, DC
     date_start: '2020-05-01'
     date_end: '2020-08-31'
-    description: Research in data science, NLP and social media mining focusing on misinformation and fake news in social media. Collaborate with researchers from <a href="https://www.cnn.com/politics">CNN</a> and University of Michigan to conduct and weekly report our analysis about the US election at <a href="https://www.cnn.com/2020/08/16/politics/election-2020-polls-biden-trump-breakthrough/index.html">The Breakthrough</a>.
+    description: Research in data science, NLP and social media mining focusing on misinformation and fake news in social media. Collaborate with researchers from <a href="https://www.cnn.com/politics" target="_blank">CNN</a> and University of Michigan to conduct and weekly report our analysis about the US election at <a href="https://www.cnn.com/2020/08/16/politics/election-2020-polls-biden-trump-breakthrough/index.html" target="_blank">The Breakthrough</a>.
 
   - title: Teaching Assistant
     company: Department of Computer Science, Georgetown University

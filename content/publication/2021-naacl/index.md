@@ -8,7 +8,7 @@ authors:
 - admin
 - Lisa Singh
 
-date: "2021-04-06T00:00:00Z"
+date: "2021-05-24T00:00:00Z"
 doi: ""
 
 # Publication type.
@@ -34,9 +34,9 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: Long Conference Paper
-  url: https://2021.naacl.org/program/accepted/
+  url: https://www.aclweb.org/anthology/2021.naacl-main.376
 
-url_pdf: 'https://2021.naacl.org/program/accepted/'
+url_pdf: 'https://www.aclweb.org/anthology/2021.naacl-main.376.pdf'
 url_code: 'https://github.com/GU-DataLab/stance-detection-KE-MLM'
 url_dataset: 'https://github.com/GU-DataLab/stance-detection-KE-MLM'
 url_poster: ''

@@ -33,14 +33,14 @@ tags: [emotion-detection, signal-processing, EEG, brain-wave]
 featured: false
 
 # Custom links (uncomment lines below)
-links:
-- name: Poster
-  url: https://www.ai.sanken.osaka-u.ac.jp/?page_id=21
+#	links:
+#	- name: Poster
+#	  url: 
 
 url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://drive.google.com/file/d/11xB_gFgGcQZKs0vx_BnANGkdW5_zgLb5/view?usp=sharing'
 url_project: ''
 url_slides: ''
 url_source: ''

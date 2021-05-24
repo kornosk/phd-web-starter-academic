@@ -40,7 +40,7 @@ links:
 - name: Workshop Paper
   url: https://www.ai.sanken.osaka-u.ac.jp/?page_id=21
 
-url_pdf: ''
+url_pdf: 'https://drive.google.com/file/d/1YjiaNCUtZViJTLUKtAIUYnhaYFc6zpaS/view?usp=sharing'
 url_code: ''
 url_dataset: ''
 url_poster: ''
