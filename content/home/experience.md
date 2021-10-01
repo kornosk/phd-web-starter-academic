@@ -27,12 +27,11 @@ experience:
     company_url: 'https://ai.google/'
     company_logo: org-google
     location: Sunnyvale, California
-    date_start: '2021-05-01'
-    date_end: ''
+    date_start: '2021-06-01'
+    date_end: '2021-08-20'
     description: |2-
-        * Work on AI/ML stuff under <a href="https://ai.google/" target="_blank">Google AI</a>.
-        * Collaborate with <a href="https://research.google/teams/cloud-ai/" target="_blank">Google Cloud AI</a> and <a href="https://research.google/teams/brain/" target="_blank">Google Brain</a> teams.
-        * Enhance AI/ML in production used by millions of people around the world.
+        * Research, experiment and implement new features for <a href="https://cloud.google.com/products/ai" target="_blank">Google AI products</a> used by millions of people around the world.
+        * Collaborate with <a href="https://cloud.google.com/automl" target="_blank">Google AutoML</a>, <a href="https://research.google/teams/cloud-ai/" target="_blank">Google Cloud AI</a> and <a href="https://research.google/teams/brain/" target="_blank">Google Brain</a> teams.
 
   - title: Research Intern
     company: Massive Data Institute
@@ -49,10 +48,11 @@ experience:
     company_logo: org-gu
     location: Washington, DC
     date_start: '2018-12-01'
-    date_end: '2020-05-31'
+    date_end: ''
     description: |2-
-        * COSC-282 Big Data Analytics (Spring 2018)
-        * COSC-287 Introduction to Data Science (Fall 2019)
+        * COSC-282 Big Data Analytics (Undergraduate Level - Spring 2018)
+        * COSC-287 Introduction to Data Science (Undergraduate Level - Fall 2019)
+        * COSC-587 Introduction to Data Analytics (Graduate Level - Fall 2021)
 
   - title: Software Engineer
     company: LINE Corporation (Tourkrub.co & DGM59)
