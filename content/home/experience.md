@@ -26,7 +26,7 @@ experience:
     company: Google
     company_url: 'https://ai.google/'
     company_logo: org-google
-    location: Sunnyvale, California
+    location: Sunnyvale, California (Remote)
     date_start: '2021-06-01'
     date_end: '2021-08-20'
     description: |2-
@@ -53,6 +53,17 @@ experience:
         * COSC-282 Big Data Analytics (Undergraduate Level - Spring 2018)
         * COSC-287 Introduction to Data Science (Undergraduate Level - Fall 2019)
         * COSC-587 Introduction to Data Analytics (Graduate Level - Fall 2021)
+
+  - title: Research Assistant
+    company: Department of Computer Science, Georgetown University
+    company_url: 'https://cs.georgetown.edu/'
+    company_logo: org-gu
+    location: Washington, DC
+    date_start: '2018-08-31'
+    date_end: ''
+    description: |2-
+        * Advise student research groups working on social media mining projects.
+        * Conduct research funded by Massive Data Institute (MDI) and National Science Foundation (NSF).
 
   - title: Software Engineer
     company: LINE Corporation (Tourkrub.co & DGM59)
