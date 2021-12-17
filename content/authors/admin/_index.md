@@ -78,7 +78,7 @@ Most of my projects are collaborations with <a href="https://www.cnn.com" target
 
 <div class="section-subheading">News</div>
 <ul class="ul-interests" style="height: 160px; overflow-y: scroll;">
-  <li>One paper accepted at <img src="img/hks-logo.png" title="HKS" style="width:14px; margin:0px; display: inline; vertical-align: -7%;"/> <a href="https://misinforeview.hks.harvard.edu/" target="_blank">The Harvard Misinformation Review</a> (to appear).</li>
+  <li><a href="https://doi.org/10.37016/mr-2020-84" target="_blank">Our paper</a> has been accepted at <img src="img/hks-logo.png" title="HKS" style="width:14px; margin:0px; display: inline; vertical-align: -7%;"/> <a href="https://misinforeview.hks.harvard.edu/" target="_blank">The Harvard Misinformation Review</a>.</li>
   <li>I served as a reviewer at <a href="https://2021.emnlp.org/" target="_blank">EMNLP 2021</a>.</li>
   <li><p>I joined <img src="img/google-logo.svg" title="Google" style="width:18px; margin:0px; display: inline; vertical-align: -7%;"/> <a href="https://research.google/teams/cloud-ai/" target="_blank">Google Cloud AI</a> as a PhD intern.</p></li>
   <!--<li><p>I joined <img src="img/google-automl.png" title="Google AutoML" style="width:20px; margin:0px; display: inline; vertical-align: -7%;"/> <a href="https://cloud.google.com/automl" target="_blank">AutoML</a> team in <img src="img/google-logo.svg" title="Google" style="width:18px; margin:0px; display: inline; vertical-align: -7%;"/> <a href="https://research.google/teams/cloud-ai/" target="_blank">Google Cloud AI</a> as a PhD intern.</p></li>-->
