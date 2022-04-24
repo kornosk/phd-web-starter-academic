@@ -14,12 +14,13 @@ organizations:
   url: https://www.georgetown.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include AI/ML and NLP.
+bio: My research interests include AI/ML, NLP and Graph.
 
 # Interests to show in About widget
 interests:
-- AI, ML, Data Science
+- AI, ML, Data Science, GraphML
 - Natural Language Processing
+- Data-Efficient Learning
 - Misinformation / Fake News
 
 # Education to show in About widget

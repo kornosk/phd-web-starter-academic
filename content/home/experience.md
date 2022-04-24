@@ -27,10 +27,10 @@ experience:
     company_url: 'https://about.twitter.com'
     company_logo: org-twitter
     location: San Francisco, California (Remote)
-    date_start: '2022-05-30'
+    date_start: '2022-06-06'
     date_end: 
     description: |2-
-        * Leverage AI/ML to mitigate misinformation diffusion on Twitter.
+        * Leverage AI/ML to study misinformation on Twitter.
 
   - title: Software Engineer Intern (AI/ML)
     company: Google
