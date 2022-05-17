@@ -29,7 +29,7 @@ abstract: The \#MeToo movement is one of several calls for social change to gain
 # Summary. An optional shortened abstract.
 summary: We propose pre-trained language models for political Twitter data. We evaluate all models and report results. We release both data and pre-trained models.
 
-tags: [NLP, BERT, \#MeToo, twitter, big-data, data-science]
+tags: [NLP, BERT, twitter, big-data, data-science, computational-social-science]
 
 # Display this page in the Featured widget?
 featured: false
