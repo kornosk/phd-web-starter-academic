@@ -79,7 +79,7 @@ Most of my projects are collaborations with <a href="https://www.cnn.com" target
 
 <div class="section-subheading">News</div>
 <ul class="ul-interests" style="height: 160px; overflow-y: scroll;">
-  <li>Three paper accepted at <a href="https://www-springer-com.proxy.library.georgetown.edu/journal/10994" target="_blank">Machine Learning</a>, <a href="https://lrec2022.lrec-conf.org/en/" target="_blank">LREC 2022</a>, and <a href="https://data.scitevents.org/" target="_blank">DATA 2022</a> (to appear).</li>
+  <li>Three paper accepted at <a href="https://www.springer.com/journal/10994" target="_blank">Machine Learning</a>, <a href="https://lrec2022.lrec-conf.org/en/" target="_blank">LREC 2022</a>, and <a href="https://data.scitevents.org/" target="_blank">DATA 2022</a> (to appear).</li>
   <li>I will join <a href="https://about.twitter.com"  target="_blank"><img src="img/twitter-logo.png" title="Twitter" style="width:22px; margin:0px; display: inline; vertical-align: -7%;"/> Twitter</a> as an ML intern working on misinformation this summer.</li>
   <li><a href="https://doi.org/10.37016/mr-2020-84" target="_blank">Our paper</a> has been accepted at <a href="https://misinforeview.hks.harvard.edu/" target="_blank"><img src="img/hks-logo.png" title="HKS" style="width:16px; margin:0px; display: inline; vertical-align: -7%;"/> The Harvard Misinformation Review</a>.</li>
   <li>I served as a reviewer at <a href="https://2021.emnlp.org/" target="_blank">EMNLP 2021</a> and <a href="https://www.2022.aclweb.org/" target="_blank">ACL 2022</a>.</li>
