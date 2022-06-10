@@ -33,12 +33,14 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
+# - name: Long Conference Paper
+#   url: 
 - name: To appear
   url: 
 
 url_pdf: ''
-url_code: ''
-url_dataset: ''
+# url_code: 'https://github.com/GU-DataLab/PoliBERTweet'
+# url_dataset: 'https://portals.mdi.georgetown.edu/public/polibertweet-masked-token-prediction'
 url_poster: ''
 url_project: ''
 url_slides: ''
