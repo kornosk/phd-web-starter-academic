@@ -26,7 +26,7 @@ abstract: Detecting stance on Twitter is especially challenging because of the s
 # Summary. An optional shortened abstract.
 summary: We propose a novel language modeling for stance detection. We release both data and pre-trained models.
 
-tags: [stance-detection, NLP, language-modeling, BERT, twitter]
+tags: [stance-detection, NLP, language-modeling, BERT, twitter, politics, computational-social-science]
 
 # Display this page in the Featured widget?
 featured: false

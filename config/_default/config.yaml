@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Kornraphop K # Website name
-baseurl: '' # Website URL
+baseurl: 'https://www.kornosk.me/' # Website URL
 copyright: 'Kornraphop K © {year}'
 
 ############################
