@@ -1,5 +1,5 @@
 ---
-title: "Traditional and Context-Specific Spam Detection in Low Resource Settings"
+title: "Traditional and Context-specific Spam Detection in Low Resource Settings"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -39,7 +39,7 @@ links:
 
 url_pdf: 'https://rdcu.be/cPly3'
 url_code: 'https://github.com/GU-DataLab/context-spam'
-url_dataset: 'https://github.com/GU-DataLab/context-spam'
+url_dataset: 'https://portals.mdi.georgetown.edu/public/spam'
 url_poster: ''
 url_project: ''
 url_slides: ''

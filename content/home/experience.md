@@ -22,15 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Incoming Machine Learning Intern
+  - title: Machine Learning Intern
     company: Twitter
-    company_url: 'https://about.twitter.com'
+    company_url: 'https://cortex.twitter.com/en.html'
     company_logo: org-twitter
     location: San Francisco, California (Remote)
     date_start: '2022-06-06'
     date_end: 
     description: |2-
-        * Leverage AI/ML to study misinformation on Twitter.
+        * Leverage AI/ML to improve Twitter.
+        * Research, design, and implement machine learnining algorithms and pipelines.
 
   - title: Software Engineer Intern (AI/ML)
     company: Google
