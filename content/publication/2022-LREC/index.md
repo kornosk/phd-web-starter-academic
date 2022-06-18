@@ -8,7 +8,7 @@ authors:
 - admin
 - Lisa Singh
 
-date: "2022-04-05T00:00:00Z"
+date: "2022-06-20T00:00:00Z"
 doi: ""
 
 # Publication type.
@@ -39,8 +39,8 @@ links:
   url: 
 
 url_pdf: ''
-# url_code: 'https://github.com/GU-DataLab/PoliBERTweet'
-# url_dataset: 'https://portals.mdi.georgetown.edu/public/polibertweet-masked-token-prediction'
+url_code: 'https://github.com/GU-DataLab/PoliBERTweet'
+url_dataset: 'https://portals.mdi.georgetown.edu/public/polibertweet-masked-token-prediction'
 url_poster: ''
 url_project: ''
 url_slides: ''
