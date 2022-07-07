@@ -8,7 +8,7 @@ authors:
 - admin
 - Lisa Singh
 
-date: "2022-06-14T00:00:00Z"
+date: "2022-07-07T00:00:00Z"
 doi: ""
 
 # Publication type.
@@ -33,8 +33,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: To appear
-  url: 
+- name: PDF
+  url: https://drive.google.com/file/d/1oQL5R5YiaO3Wdj6o7Nqd7BVAN2kSMxN8/view?usp=sharing
 
 url_pdf: ''
 url_code: ''

@@ -35,10 +35,8 @@ featured: false
 links:
 # - name: Long Conference Paper
 #   url: 
-- name: To appear
-  url: 
 
-url_pdf: ''
+url_pdf: 'http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.801.pdf'
 url_code: 'https://github.com/GU-DataLab/PoliBERTweet'
 url_dataset: 'https://portals.mdi.georgetown.edu/public/polibertweet-masked-token-prediction'
 url_poster: ''
