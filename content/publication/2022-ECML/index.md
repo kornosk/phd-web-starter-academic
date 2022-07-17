@@ -32,11 +32,11 @@ tags: [misinformation, data-efficient, misinformation-detection, NLP, reinforcem
 featured: false
 
 # Custom links (uncomment lines below)
-links:
-- name: PDF
-  url: https://drive.google.com/file/d/1oQL5R5YiaO3Wdj6o7Nqd7BVAN2kSMxN8/view?usp=sharing
+# links:
+# - name: Long Conference Paper
+#   url: 
 
-url_pdf: ''
+url_pdf: 'https://drive.google.com/file/d/1oQL5R5YiaO3Wdj6o7Nqd7BVAN2kSMxN8/view?usp=sharing'
 url_code: ''
 url_dataset: ''
 url_poster: ''

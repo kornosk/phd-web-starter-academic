@@ -36,10 +36,10 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: To appear
-  url: 
+- name: Long Conference Paper
+  url: http://dx.doi.org/10.5220/0011278100003269
 
-url_pdf: ''
+url_pdf: 'http://dx.doi.org/10.5220/0011278100003269'
 url_code: ''
 url_dataset: ''
 url_poster: ''

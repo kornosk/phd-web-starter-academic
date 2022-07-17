@@ -79,9 +79,9 @@ Most of my projects are collaborations with <a href="https://www.cnn.com" target
 
 <div class="section-subheading">News</div>
 <ul class="ul-interests" style="height: 185px; overflow-y: scroll;">
-  <li>One paper accepted at <a href="https://2022.ecmlpkdd.org/" target="_blank">ECML 2022</a> (to appear or see <a href="https://drive.google.com/file/d/1oQL5R5YiaO3Wdj6o7Nqd7BVAN2kSMxN8/view?usp=sharing">preprint</a>).</li>
+  <li>One paper accepted at <a href="/publication/2022-ecml" target="_blank">ECML 2022</a> (to appear).</li>
   <li>I passed my PhD proposal defense 🎉</li>
-  <li>Three papers accepted at <a href="/publication/2022-mlj" target="_blank">Machine Learning</a>, <a href="/publication/2022-lrec" target="_blank">LREC 2022</a>, and <a href="https://data.scitevents.org/" target="_blank">DATA 2022</a> (to appear).</li>
+  <li>Three papers accepted at <a href="/publication/2022-mlj" target="_blank">Machine Learning</a>, <a href="/publication/2022-lrec" target="_blank">LREC 2022</a>, and <a href="/publication/2022-DATA" target="_blank">DATA 2022</a>.</li>
   <li>I join <a href="https://about.twitter.com"  target="_blank"><img src="img/twitter-logo.png" title="Twitter" style="width:22px; margin:0px; display: inline; vertical-align: -7%;"/> Twitter</a> as an ML intern.</li>
   <li><a href="https://doi.org/10.37016/mr-2020-84" target="_blank">Our paper</a> has been accepted at <a href="https://misinforeview.hks.harvard.edu/" target="_blank"><img src="img/hks-logo.png" title="HKS" style="width:16px; margin:0px; display: inline; vertical-align: -7%;"/> The Harvard Misinformation Review</a>.</li>
   <li>I served as a reviewer at <a href="https://2021.emnlp.org/" target="_blank">EMNLP 2021</a>, <a href="https://www.2022.aclweb.org/" target="_blank">ACL 2022</a> and <a href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=158732&copyownerid=2468" target="_blank">ICWSM 2023</a>.</li>
