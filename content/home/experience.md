@@ -28,10 +28,10 @@ experience:
     company_logo: org-twitter
     location: San Francisco, California (Remote)
     date_start: '2022-06-06'
-    date_end: 
+    date_end: '2022-08-19'
     description: |2-
         * Leverage AI/ML to improve Twitter.
-        * Research, design, and implement machine learnining algorithms and pipelines.
+        * Conduct and deploy end-to-end machine learning pipelines from research to production.
 
   - title: Software Engineer Intern (AI/ML)
     company: Google
@@ -51,7 +51,9 @@ experience:
     location: Washington, DC
     date_start: '2020-05-01'
     date_end: '2020-08-31'
-    description: Research in data science, NLP and social media mining focusing on misinformation and fake news in social media. Collaborate with researchers from <a href="https://www.cnn.com/politics" target="_blank">CNN</a> and University of Michigan to conduct and weekly report our analysis about the US election at <a href="https://www.cnn.com/2020/08/16/politics/election-2020-polls-biden-trump-breakthrough/index.html" target="_blank">The Breakthrough</a>.
+    description: |2-
+        * Research in data science, NLP and social media mining focusing on misinformation and fake news in social media.
+        * Collaborate with researchers from <a href="https://www.cnn.com/politics" target="_blank">CNN</a> and University of Michigan to conduct and weekly report our analysis about the US election at <a href="https://www.cnn.com/2020/08/16/politics/election-2020-polls-biden-trump-breakthrough/index.html" target="_blank">The Breakthrough</a>.
 
   - title: Teaching Assistant
     company: Department of Computer Science, Georgetown University
@@ -83,7 +85,9 @@ experience:
     location: Bangkok, Thailand
     date_start: '2017-02-01'
     date_end: '2017-07-31'
-    description: Gather requirements, design, development, testing and validation using Ruby on Rails. Successfully developed APIs to reduce back-office operation time by 75% including PDF bill generation, email confirmation, bank account notification for Slack, etc.
+    description: |2-
+        * Gather requirements, design, development, testing and validation using Ruby on Rails.
+        * Develop APIs to reduce back-office operation time by 75% including PDF bill generation, email confirmation, bank account notification for Slack, etc.
 
   - title: Research Intern
     company: The Institute of Scientific and Industrial Research (ISIR), Osaka University
@@ -92,7 +96,10 @@ experience:
     location: Osaka, Japan
     date_start: '2015-06-01'
     date_end: '2015-08-31'
-    description: Research in Neuroscience and Machine Learning mainly using MATLAB and C++. The advisor is Prof. Masayuki Numao. Collaboratively conduct experiments with the Biochemical Lab (Nagai Lab) and develop APIs to collect streaming data from EEG brainwave headset in C++ and apply ML model to evaluate user’s emotions.
+    description: |2-
+        * Research in Neuroscience and Machine Learning mainly using MATLAB and C++. The advisor is Prof. Masayuki Numao.
+        * Collaboratively conduct experiments with the Biochemical Lab (Nagai Lab).
+        * Develop APIs to collect streaming data from EEG brainwave headset in C++ and apply ML models to evaluate user’s emotions.
 
   - title: Research Assistant
     company: Department of Computer Engineering, Chulalongkorn University
@@ -101,7 +108,9 @@ experience:
     location: Bangkok, Thailand
     date_start: '2015-01-01'
     date_end: '2016-12-31'
-    description: I was a member of Machine Intelligence and Knowledge Discovery Lab (MIND Lab) conducting research to solve data science problems in real-world including wind power prediction from power plants (time series), emotion prediction from brain wave (neuroscience and ML/AI) and analysis of course materials (text mining).
+    description: |2-
+        * A member of Machine Intelligence and Knowledge Discovery Lab (MIND Lab).
+        * Conducting research to solve data science problems in real-world including wind power prediction from power plants (time series), emotion prediction from brain wave (neuroscience and ML/AI) and analysis of course materials (text mining).
 
 design:
   columns: '2'
