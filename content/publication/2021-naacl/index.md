@@ -39,11 +39,11 @@ links:
 url_pdf: 'https://www.aclweb.org/anthology/2021.naacl-main.376.pdf'
 url_code: 'https://github.com/GU-DataLab/stance-detection-KE-MLM'
 url_dataset: 'https://github.com/GU-DataLab/stance-detection-KE-MLM'
-url_poster: ''
+url_poster: 'https://drive.google.com/file/d/1bKZVT-qfq2pj37jJbYR4NhFc90n2oVJb/view?usp=sharing'
 url_project: ''
-url_slides: ''
+url_slides: 'https://drive.google.com/file/d/1DYN7Eo1MRjImydoxyPjhp09lpOdXT9Fl/view?usp=sharing'
 url_source: ''
-url_video: ''
+url_video: 'https://drive.google.com/file/d/1DhSkcS6rBP91jfiqumekM8rViJVBIv7k/view?usp=sharing'
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

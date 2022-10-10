@@ -37,13 +37,13 @@ featured: false
 #   url: 
 
 url_pdf: 'https://drive.google.com/file/d/1oQL5R5YiaO3Wdj6o7Nqd7BVAN2kSMxN8/view?usp=sharing'
-url_code: ''
-url_dataset: ''
+url_code: 'https://github.com/GU-DataLab/misinformation-detection-DeMis'
+url_dataset: 'https://portals.mdi.georgetown.edu/public/misinformation-detection'
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://drive.google.com/file/d/1S9UUctw6rHw28FOk6zv1zaimLojcONIv/view?usp=sharing'
 url_source: ''
-url_video: ''
+url_video: 'https://drive.google.com/file/d/1b06AVhMdkYBFx2J2tjKNptt6lNHJWaS4/view?usp=sharing'
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

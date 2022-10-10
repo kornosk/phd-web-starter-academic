@@ -33,17 +33,17 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-# - name: Long Conference Paper
-#   url: 
+- name: Short Conference Paper
+  url: https://aclanthology.org/2022.lrec-1.801
 
-url_pdf: 'http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.801.pdf'
+url_pdf: 'https://aclanthology.org/2022.lrec-1.801.pdf'
 url_code: 'https://github.com/GU-DataLab/PoliBERTweet'
 url_dataset: 'https://portals.mdi.georgetown.edu/public/polibertweet-masked-token-prediction'
-url_poster: ''
+url_poster: 'https://drive.google.com/file/d/1h4TizoBex4siD2qTEkGobmLX5jfoehUe/view?usp=sharing'
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://drive.google.com/file/d/1HquyiEl5u9De5fxvV9_O6s-Vj2NgLgAW/view?usp=sharing'
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
