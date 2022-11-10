@@ -27,10 +27,10 @@ interests:
 education:
   courses:
   - course: PhD in Computer Science
-    institution: Georgetown University
+    institution: Georgetown University, USA
     year: 2017 - present
   - course: BEng in Computer Engineering
-    institution: Chulalongkorn University
+    institution: Chulalongkorn University, Thailand
     year: 2012 - 2016
 
 # Social/Academic Networking
