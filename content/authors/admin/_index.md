@@ -71,7 +71,7 @@ email: "kornraphop.k [at] gee-mail"
 highlight_name: true
 ---
 
-Hello! I am a Ph.D. student in <a href="https://cs.georgetown.edu" title="Department of Computer Science – Georgetown University" target="_blank">Computer Science</a> at <a href="https://www.georgetown.edu" title="Georgetown University" target="_blank">Georgetown University</a> located in Washington, DC. I am working with <a href="http://people.cs.georgetown.edu/~singh" title="Prof. Lisa Singh" target="_blank">Prof. Lisa Singh</a> on **Data Science, Social Media Mining and NLP**.
+Hello! I am a Ph.D. candidate in <a href="https://cs.georgetown.edu" title="Department of Computer Science – Georgetown University" target="_blank">Computer Science</a> at <a href="https://www.georgetown.edu" title="Georgetown University" target="_blank">Georgetown University</a> located in Washington, DC. I am working with <a href="http://people.cs.georgetown.edu/~singh" title="Prof. Lisa Singh" target="_blank">Prof. Lisa Singh</a> on **Data Science, Social Media Mining and NLP**.
 
 Most of my projects are collaborations with <a href="https://www.cnn.com" target="_blank">CNN</a>, <a href="https://www.washingtonpost.com" target="_blank">Washington Post</a>, <a href="https://www.si.umich.edu/" target="_blank">UMich</a> and <a href="https://mccourt.georgetown.edu/research/the-massive-data-institute/" target="_blank">MDI</a> on leveraging AI/ML methods for data-centric social concerns such as <a href="https://s3mc.org/political-communication/election-2020-project/sentiment-analyses/" target="_blank">sentiment analysis</a>, stance detection, <a href="http://forcedmigration.cs.georgetown.edu/index.html" target="_blank">force-migration</a>, <a href="http://gunresearch.georgetown.domains/" target="_blank">gun policy</a>, <a href="https://metoo.georgetown.domains/" target="_blank">MeToo movement</a>, spam, <a href="https://s3mc.org/misinformation/">misinformation and fake news</a>. I spent some time working at <a href="https://about.twitter.com"  target="_blank"><img src="img/twitter-logo.png" title="Twitter" style="width:22px; margin:0px; display: inline; vertical-align: -7%;"/> Twitter</a> and <a href="https://research.google/teams/cloud-ai/" target="_blank"><img src="img/google-logo.svg" title="Google" style="width:19px; margin:0px; display: inline; vertical-align: -7%;"/> Google</a>.
 
@@ -79,6 +79,7 @@ Most of my projects are collaborations with <a href="https://www.cnn.com" target
 
 <div class="section-subheading">News</div>
 <ul class="ul-interests" style="height: 185px; overflow-y: scroll;">
+  <li>I passed my PhD dissertation defense 🎉</li>
   <li>One paper accepted at <a href="/publication/2022-ecml" target="_blank">ECML 2022</a> (to appear).</li>
   <li>I passed my PhD proposal defense 🎉</li>
   <li>Three papers accepted at <a href="/publication/2022-mlj" target="_blank">Machine Learning</a>, <a href="/publication/2022-lrec" target="_blank">LREC 2022</a>, and <a href="/publication/2022-DATA" target="_blank">DATA 2022</a>.</li>
