@@ -81,7 +81,7 @@ Most of my projects were collaborations with <a href="https://www.cnn.com" targe
 <ul class="ul-interests" style="height: 185px; overflow-y: scroll;">
   <li>One paper accepted at <a href="https://data.scitevents.org/Home.aspx" target="_blank">DATA 2023</a> (to appear).</li>
   <li>One workshop paper accepted at <a href="https://aaai.org/Conferences/AAAI-23/" target="_blank">AAAI 2023</a> (to appear).</li>
-  <li>I passed my PhD dissertation defense 🎉</li>
+  <li>I passed my <a href="/publication/2022-thesis" target="_blank">PhD dissertation</a> defense 🎉</li>
   <li>One paper accepted at <a href="/publication/2022-ecml" target="_blank">ECML 2022</a>.</li>
   <li>I passed my PhD proposal defense 🎉</li>
   <li>Three papers accepted at <a href="/publication/2022-mlj" target="_blank">Machine Learning</a>, <a href="/publication/2022-lrec" target="_blank">LREC 2022</a>, and <a href="/publication/2022-DATA" target="_blank">DATA 2022</a>.</li>
