@@ -32,11 +32,11 @@ tags: [misinformation, data-efficient, misinformation-detection, NLP, reinforcem
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Long Conference Paper
-#   url: 
+links:
+- name: Long Conference Paper
+  url: https://doi.org/10.1007/978-3-031-26390-3_14
 
-url_pdf: 'https://drive.google.com/file/d/1oQL5R5YiaO3Wdj6o7Nqd7BVAN2kSMxN8/view?usp=sharing'
+# url_pdf: 'https://drive.google.com/file/d/1oQL5R5YiaO3Wdj6o7Nqd7BVAN2kSMxN8/view?usp=sharing'
 url_code: 'https://github.com/GU-DataLab/misinformation-detection-DeMis'
 url_dataset: 'https://portals.mdi.georgetown.edu/public/misinformation-detection'
 url_poster: ''

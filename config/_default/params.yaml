@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: minimal
-day_night: true
+theme: Minimal # Minimal (modern), Classic (original Academic v1 style), Rose (traditional serif), Mr Robot (futuristic), Cyberpunk (hacker style), Native: use device fonts for maximum performance
+day_night: false
 font: ''
-font_size: L
+font_size: m
 
 # SEO
 
@@ -16,7 +16,7 @@ site_type: Person
 local_business_type: 'Higher Education'
 org_name: 'Georgetown University'
 description: ''
-twitter: ''
+twitter: 'https://twitter.com/kornraphop'
 
 # Contact (edit or remove options as required)
 

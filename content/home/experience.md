@@ -22,6 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Software Engineer (AI/ML)
+    company: Google
+    company_url: 'https://about.google'
+    company_logo: org-google
+    location: Sunnyvale, California
+    date_start: '2022-12-12'
+    date_end: ''
+    description: |2-
+        * Design and develop <a href="https://cloud.google.com/natural-language" target="_blank">ML/NLP models</a> such as <a href="https://bard.google.com" target="_blank">Google Bard</a>, Sentiment Analysis, Entity Extraction, Part-of-Speech Tagging, and AutoML.
+        * Research, experiment and implement new features for <a href="https://cloud.google.com/products/ai" target="_blank">Google AI products</a> used by millions of people around the world.
+
   - title: Machine Learning Intern
     company: Twitter
     company_url: 'https://cortex.twitter.com/en.html'
@@ -44,13 +55,13 @@ experience:
         * Research, experiment and implement new features for <a href="https://cloud.google.com/products/ai" target="_blank">Google AI products</a> used by millions of people around the world.
         * Collaborate with <a href="https://cloud.google.com/automl" target="_blank">Google AutoML</a>, <a href="https://research.google/teams/cloud-ai/" target="_blank">Google Cloud AI</a> and <a href="https://research.google/teams/brain/" target="_blank">Google Brain</a> teams.
 
-  - title: Research Intern
+  - title: Researcher
     company: Massive Data Institute
     company_url: 'https://mccourt.georgetown.edu/research/the-massive-data-institute/'
     company_logo: org-mdi
     location: Washington, DC
     date_start: '2020-05-01'
-    date_end: '2020-08-31'
+    date_end: '2022-12-09'
     description: |2-
         * Research in data science, NLP and social media mining focusing on misinformation and fake news in social media.
         * Collaborate with researchers from <a href="https://www.cnn.com/politics" target="_blank">CNN</a> and University of Michigan to conduct and weekly report our analysis about the US election at <a href="https://www.cnn.com/2020/08/16/politics/election-2020-polls-biden-trump-breakthrough/index.html" target="_blank">The Breakthrough</a>.
@@ -61,7 +72,7 @@ experience:
     company_logo: org-gu
     location: Washington, DC
     date_start: '2018-12-01'
-    date_end: ''
+    date_end: '2022-12-09'
     description: |2-
         * COSC-282 Big Data Analytics (Undergraduate Level - Spring 2018)
         * COSC-287 Introduction to Data Science (Undergraduate Level - Fall 2019)
@@ -73,7 +84,7 @@ experience:
     company_logo: org-gu
     location: Washington, DC
     date_start: '2018-08-31'
-    date_end: ''
+    date_end: '2022-12-09'
     description: |2-
         * Advise student research groups working on social media mining projects.
         * Conduct research funded by Massive Data Institute (MDI) and National Science Foundation (NSF).

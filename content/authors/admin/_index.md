@@ -19,8 +19,8 @@ bio: My research interests include AI/ML, NLP and Data Science.
 # Interests to show in About widget
 interests:
 - AI, ML, Data Science
-- Natural Language Processing
-- Data-Efficient Learning
+- NLP & Large Language Models
+- Efficient ML
 - Misinformation / Fake News
 
 # Education to show in About widget
@@ -81,7 +81,7 @@ Most of my projects were collaborations with <a href="https://www.cnn.com" targe
 <ul class="ul-interests" style="height: 185px; overflow-y: scroll;">
   <li>One workshop paper accepted at <a href="https://aaai.org/Conferences/AAAI-23/" target="_blank">AAAI 2023</a> (to appear).</li>
   <li>I passed my PhD dissertation defense 🎉</li>
-  <li>One paper accepted at <a href="/publication/2022-ecml" target="_blank">ECML 2022</a> (to appear).</li>
+  <li>One paper accepted at <a href="/publication/2022-ecml" target="_blank">ECML 2022</a>.</li>
   <li>I passed my PhD proposal defense 🎉</li>
   <li>Three papers accepted at <a href="/publication/2022-mlj" target="_blank">Machine Learning</a>, <a href="/publication/2022-lrec" target="_blank">LREC 2022</a>, and <a href="/publication/2022-DATA" target="_blank">DATA 2022</a>.</li>
   <li>I joined <a href="https://about.twitter.com"  target="_blank"><img src="img/twitter-logo.png" title="Twitter" style="width:22px; margin:0px; display: inline; vertical-align: -7%;"/> Twitter</a> as an ML intern.</li>
