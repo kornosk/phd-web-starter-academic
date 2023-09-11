@@ -1,5 +1,5 @@
 ---
-title: "Investigating Scientific Misinformation Using Different Modes of Learning"
+title: "Identifying High Quality Training Data for Misinformation Detection"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -26,7 +26,7 @@ publication_types: ["1"]
 publication: In *Proceedings of the International Conference on Data Science, Technology and Applications (DATA)*
 publication_short: In ***DATA***
 
-abstract: Misinformation spread through social media poses a grave threat to public health, interfering with the best scientific evidence available. This spread was most visible during the COVID-19 pandemic. To track and curb misinformation, an essential first step is to detect it. One component of misinformation detection is finding examples of misinformation posts that can serve as training data for misinformation detection algorithms. In this paper, we focus on the challenge of collecting high quality training data in misinformation detection applications. To that end, we demonstrate the effectiveness of a simple methodology and show its viability on five myths related to COVID-19. Our methodology incorporates both dictionary-based sampling and predictions from weak learners in order to identify a reasonable number of myth examples for data labeling. To aid researchers in adjusting this methodology for specific use cases, we use word usage entropy to describe when fewer iterations of sampling and training will be needed to obtain high quality samples. Finally, we present a case study that shows the prevalence of three of our myths on Twitter at the beginning of the pandemic.
+abstract: Misinformation spread through social media poses a grave threat to public health, interfering with the best scientific evidence available. This spread was particularly visible during the COVID-19 pandemic. To track and curb misinformation, an essential first step is to detect it. One component of misinformation detection is finding examples of misinformation posts that can serve as training data for misinformation detection algorithms. In this paper, we focus on the challenge of collecting high-quality training data in misinformation detection applications. To that end, we demonstrate the effectiveness of a simple methodology and show its viability on five myths related to COVID-19. Our methodology incorporates both dictionary-based sampling and predictions from weak learners to identify a reasonable number of myth examples for data labeling. To aid researchers in adjusting this methodology for specific use cases, we use word usage entropy to describe when fewer iterations of samplin g and training will be needed to obtain high-quality samples. Finally, we present a case study that shows the prevalence of three of our myths on Twitter at the beginning of the pandemic.
 
 # Summary. An optional shortened abstract.
 summary: This paper presents an analysis of different methods for collecting training data in order to train a machine learning classifier for misinformation detection.
@@ -38,10 +38,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-# - name: Conference Paper
-#   url: 
-- name: To Appear
-  url: https://data.scitevents.org/CallForPapers.aspx#publications
+- name: Conference Paper
+  url: https://doi.org/10.5220/0012089000003541
 
 url_pdf: ''
 url_code: ''

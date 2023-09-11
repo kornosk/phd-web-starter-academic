@@ -37,10 +37,10 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Short Conference Paper
-  url: 
+- name: To appear
+  url: https://sites.google.com/view/sdu-aaai23/schedule
 
-url_pdf: ''
+url_pdf: 'https://ix.cs.uoregon.edu/~apouranb/sdu23/17.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
