@@ -79,8 +79,8 @@ Most of my projects were collaborations with <a href="https://www.cnn.com" targe
 
 <div class="section-subheading">News</div>
 <ul class="ul-interests" style="height: 185px; overflow-y: scroll;">
-  <li>One paper accepted at <a href="https://cmsny.org/research-and-policy/international-migration-review/" target="_blank">International Migration Review (IMR)</a> (to appear).</li>
-  <li>One paper accepted at <a href="https://data.scitevents.org/Home.aspx" target="_blank">DATA 2023</a> (to appear).</li>
+  <li>One paper accepted at <a href="https://doi.org/10.1177/01979183231203931" target="_blank">International Migration Review (IMR)</a>.</li>
+  <li>One paper accepted at <a href="https://doi.org/10.5220/0012089000003541" target="_blank">DATA 2023</a>.</li>
   <li>One workshop paper accepted at <a href="https://aaai.org/Conferences/AAAI-23/" target="_blank">AAAI 2023</a> (to appear).</li>
   <li>I passed my <a href="/publication/2022-thesis" target="_blank">PhD dissertation</a> defense 🎉</li>
   <li>One paper accepted at <a href="/publication/2022-ecml" target="_blank">ECML 2022</a>.</li>
