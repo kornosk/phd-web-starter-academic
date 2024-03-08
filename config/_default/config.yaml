@@ -43,7 +43,9 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  home: [HTML, RSS, JSON, WebAppManifest]
+  # Remove `headers` and `redirects` due to https://github.com/HugoBlox/hugo-blox-builder/discussions/2800#discussioncomment-3477035.
+  # home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
 markup:
   defaultMarkdownHandler: goldmark
