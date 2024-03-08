@@ -6,11 +6,13 @@ title: Kornraphop Kawintiranon
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. in CS
+role: LLM / ML / NLP
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Georgetown University
+- name: ML Engineer @ Google LLC
+  url: https://about.google/
+- name: CS PhD @ Georgetown University
   url: https://www.georgetown.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,8 +20,8 @@ bio: My research interests include AI/ML, NLP and Data Science.
 
 # Interests to show in About widget
 interests:
-- AI, ML, Data Science
-- NLP & Large Language Models
+- Large Language Models (LLMs)
+- NLP, AI, ML, Data Science
 - Efficient ML
 - Misinformation / Fake News
 
@@ -71,9 +73,9 @@ email: "kornraphop.k [at] gee-mail"
 highlight_name: true
 ---
 
-Hello! I got a Ph.D. in <a href="https://cs.georgetown.edu" title="Department of Computer Science – Georgetown University" target="_blank">Computer Science</a> from <a href="https://www.georgetown.edu" title="Georgetown University" target="_blank">Georgetown University</a>. I was fortunate to work with my advisor, <a href="http://people.cs.georgetown.edu/~singh" title="Prof. Lisa Singh" target="_blank">Prof. Lisa Singh</a>. My research focuses on **Data Science, Social Media Mining and NLP**.
+I am a Machine Learning Engineer at Google. I received a Ph.D. in Computer Science from Georgetown University. I was fortunate to work with my advisor, <a href="http://people.cs.georgetown.edu/~singh" title="Prof. Lisa Singh" target="_blank">Prof. Lisa Singh</a>. My research focuses on **NLP, Language Models, Data Science, and Social Media Mining**.
 
-Most of my projects were collaborations with <a href="https://www.cnn.com" target="_blank">CNN</a>, <a href="https://www.washingtonpost.com" target="_blank">Washington Post</a>, <a href="https://www.si.umich.edu/" target="_blank">UMich</a> and <a href="https://mccourt.georgetown.edu/research/the-massive-data-institute/" target="_blank">MDI</a> on leveraging AI/ML methods for data-centric social concerns such as <a href="https://s3mc.org/political-communication/election-2020-project/sentiment-analyses/" target="_blank">sentiment analysis</a>, stance detection, <a href="http://forcedmigration.cs.georgetown.edu/index.html" target="_blank">force-migration</a>, <a href="http://gunresearch.georgetown.domains/" target="_blank">gun policy</a>, <a href="https://metoo.georgetown.domains/" target="_blank">MeToo movement</a>, spam, <a href="https://s3mc.org/misinformation/">misinformation and fake news</a>. I spent some time working at <a href="https://about.twitter.com"  target="_blank"><img src="img/twitter-logo.png" title="Twitter" style="width:22px; margin:0px; display: inline; vertical-align: -7%;"/> Twitter</a> and <a href="https://research.google/teams/cloud-ai/" target="_blank"><img src="img/google-logo.svg" title="Google" style="width:19px; margin:0px; display: inline; vertical-align: -7%;"/> Google</a>.
+During my PhD time, most of my projects were collaborations with <a href="https://www.cnn.com" target="_blank">CNN</a>, <a href="https://www.washingtonpost.com" target="_blank">Washington Post</a>, <a href="https://www.si.umich.edu/" target="_blank">UMich</a> and <a href="https://mccourt.georgetown.edu/research/the-massive-data-institute/" target="_blank">MDI</a> on leveraging AI/ML methods for data-centric social concerns such as <a href="https://s3mc.org/political-communication/election-2020-project/sentiment-analyses/" target="_blank">sentiment analysis</a>, stance detection, <a href="http://forcedmigration.cs.georgetown.edu/index.html" target="_blank">force-migration</a>, <a href="http://gunresearch.georgetown.domains/" target="_blank">gun policy</a>, <a href="https://metoo.georgetown.domains/" target="_blank">MeToo movement</a>, spam, <a href="https://s3mc.org/misinformation/">misinformation and fake news</a>. During summers, I spent some time working at <a href="https://about.twitter.com"  target="_blank"><img src="img/twitter-logo.png" title="Twitter" style="width:22px; margin:0px; display: inline; vertical-align: -7%;"/> Twitter</a> and <a href="https://research.google/teams/cloud-ai/" target="_blank"><img src="img/google-logo.svg" title="Google" style="width:19px; margin:0px; display: inline; vertical-align: -7%;"/> Google</a>.
 
 <!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
 
