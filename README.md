@@ -1,3 +1,11 @@
+# Hugo issue
+
+Try this command to clean hugo.
+
+```
+hugo mod clean
+```
+
 <p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>
 
 # Academic Template for [Hugo](https://github.com/gohugoio/hugo)
