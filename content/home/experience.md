@@ -23,15 +23,16 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Software Engineer (AI/ML)
-    company: Google
-    company_url: 'https://about.google'
+    company: Google Research
+    company_url: 'https://research.google'
     company_logo: org-google
-    location: Sunnyvale, California
+    location: Mountain View, California
     date_start: '2022-12-12'
     date_end: ''
     description: |2-
-        * Design and develop <a href="https://cloud.google.com/natural-language" target="_blank">ML/NLP models</a> such as <a href="https://bard.google.com" target="_blank">Google Bard</a>, <a href="https://developers.generativeai.google/products/palm" target="_blank">PaLM API</a>, Sentiment Analysis, Entity Extraction, Part-of-Speech Tagging, and AutoML.
-        * Research, experiment and implement new features for <a href="https://cloud.google.com/products/ai" target="_blank">Google AI products</a> used by millions of people around the world.
+        * Research in multimodal LLM safety and alignment.
+        * Develop <a href="https://cloud.google.com/natural-language" target="_blank">LLM and NLP models</a> such as <a href="https://gemini.google.com" target="_blank">Google Gemini</a>, <a href="https://developers.generativeai.google/products/palm" target="_blank">PaLM API</a>, Sentiment Analysis, Entity Extraction, Part-of-Speech Tagging, and AutoML.
+        * Research, experiment and implement new features for <a href="https://ai.google" target="_blank">Google AI products</a> used by millions of people around the world.
 
   - title: Machine Learning Intern
     company: Twitter
