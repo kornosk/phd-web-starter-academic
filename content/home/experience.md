@@ -46,7 +46,7 @@ experience:
         * Conduct and deploy end-to-end machine learning pipelines from research to production.
 
   - title: Software Engineer Intern (AI/ML)
-    company: Google
+    company: Google Cloud AI
     company_url: 'https://ai.google/'
     company_logo: org-google
     location: Sunnyvale, California (Remote)

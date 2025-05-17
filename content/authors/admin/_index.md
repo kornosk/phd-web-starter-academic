@@ -10,8 +10,8 @@ role: LLM / ML / NLP
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: ML Engineer @ Google LLC
-  url: https://about.google/
+- name: ML Engineer @ Google Research
+  url: https://research.google/
 - name: CS PhD @ Georgetown University
   url: https://www.georgetown.edu/
 
@@ -73,15 +73,15 @@ email: "kornraphop.k [at] gee-mail"
 highlight_name: true
 ---
 
-I am a Machine Learning Engineer at Google developing <a href="https://cloud.google.com/natural-language?hl=en" target="_blank">NLP products</a> and LLMs such as <a href="https://deepmind.google/technologies/gemini/" target="_blank">Gemini</a> and <a href="https://ai.google/discover/palm2/" target="_blank">PaLM</a> models. I received a Ph.D. in Computer Science from Georgetown University. I was fortunate to work with my advisor, <a href="http://people.cs.georgetown.edu/~singh" title="Prof. Lisa Singh" target="_blank">Prof. Lisa Singh</a>. My research focuses on **NLP, Language Models, Data Science, and Social Media Mining**.
+I am a Senior Machine Learning Engineer at <a href="https://research.google/" target="_blank">Google Research</a> mainly working on multimodal LLMs including <a href="https://deepmind.google/technologies/gemini/" target="_blank">Gemini</a> and <a href="https://ai.google/discover/palm2/" target="_blank">PaLM</a> models, also developed a number of <a href="https://cloud.google.com/natural-language?hl=en" target="_blank">NLP products</a> for Google Cloud. I received a Ph.D. in Computer Science from Georgetown University. I was fortunate to work with my advisor, <a href="http://people.cs.georgetown.edu/~singh" title="Prof. Lisa Singh" target="_blank">Prof. Lisa Singh</a>. My research focused on **NLP, Language Models, Data Science, and Social Media Mining**.
 
-During my PhD time, most of my projects were collaborations with <a href="https://www.cnn.com" target="_blank">CNN</a>, <a href="https://www.washingtonpost.com" target="_blank">Washington Post</a>, <a href="https://www.si.umich.edu/" target="_blank">UMich</a> and <a href="https://mccourt.georgetown.edu/research/the-massive-data-institute/" target="_blank">MDI</a> on leveraging AI/ML methods for data-centric social concerns such as <a href="https://s3mc.org/political-communication/election-2020-project/sentiment-analyses/" target="_blank">sentiment analysis</a>, stance detection, <a href="http://forcedmigration.cs.georgetown.edu/index.html" target="_blank">force-migration</a>, <a href="http://gunresearch.georgetown.domains/" target="_blank">gun policy</a>, <a href="https://metoo.georgetown.domains/" target="_blank">MeToo movement</a>, spam, <a href="https://s3mc.org/misinformation/">misinformation and fake news</a>. During summers, I spent some time working at <a href="https://about.twitter.com"  target="_blank"><img src="img/twitter-logo.png" title="Twitter" style="width:22px; margin:0px; display: inline; vertical-align: -7%;"/> Twitter</a> and <a href="https://research.google/teams/cloud-ai/" target="_blank"><img src="img/google-logo.svg" title="Google" style="width:19px; margin:0px; display: inline; vertical-align: -7%;"/> Google</a>.
+During my PhD student's life, most of my projects were collaborations with <a href="https://www.cnn.com" target="_blank">CNN</a>, <a href="https://www.washingtonpost.com" target="_blank">Washington Post</a>, <a href="https://www.si.umich.edu/" target="_blank">UMich</a> and <a href="https://mccourt.georgetown.edu/research/the-massive-data-institute/" target="_blank">MDI</a> on leveraging AI/ML methods for data-centric social concerns such as <a href="https://s3mc.org/political-communication/election-2020-project/sentiment-analyses/" target="_blank">sentiment analysis</a>, stance detection, <a href="http://forcedmigration.cs.georgetown.edu/index.html" target="_blank">force-migration</a>, <a href="http://gunresearch.georgetown.domains/" target="_blank">gun policy</a>, <a href="https://metoo.georgetown.domains/" target="_blank">MeToo movement</a>, spam, <a href="https://s3mc.org/misinformation/">misinformation and fake news</a>. During summers, I spent some time working at <a href="https://about.twitter.com"  target="_blank"><img src="img/twitter-logo.png" title="Twitter" style="width:22px; margin:0px; display: inline; vertical-align: -7%;"/> Twitter</a> and <a href="https://research.google/teams/cloud-ai/" target="_blank"><img src="img/google-logo.svg" title="Google" style="width:19px; margin:0px; display: inline; vertical-align: -7%;"/> Google</a>.
 
 <!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
 
 <div class="section-subheading">News</div>
 <ul class="ul-interests" style="height: 185px; overflow-y: scroll;">
-  <li>Listed as a Core Contributor in <a href="https://arxiv.org/abs/2403.05530" target="_blank">Google Gemini 1.5 paper</a>.</li>
+  <li>Be a Core Contributor for <a href="https://arxiv.org/abs/2403.05530" target="_blank">Google Gemini 1.5 paper</a>.</li>
   <li>One paper accepted at <a href="https://doi.org/10.1177/01979183231203931" target="_blank">International Migration Review (IMR)</a>.</li>
   <li>One paper accepted at <a href="https://doi.org/10.5220/0012089000003541" target="_blank">DATA 2023</a>.</li>
   <li>One workshop paper accepted at <a href="https://aaai.org/Conferences/AAAI-23/" target="_blank">AAAI 2023</a>.</li>
